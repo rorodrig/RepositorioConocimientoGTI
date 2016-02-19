@@ -1,0 +1,2 @@
+# RepositorioConocimientoGTI
+Repositorio Conocimiento GTI
